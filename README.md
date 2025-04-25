@@ -11,4 +11,4 @@ I'm interested in all aspects of technology related to web development. I strong
 - 📫 How to reach me: 'andrewprofile' on the Internet.
 - 💬 Ask me about Domain Driven Design (DDD), PHP, CQRS and Event Sourcing!
 
-![](_next\static\media\68747470733a2f2f636c6f7564.png "Page Speed")
+![](_next/static/media/68747470733a2f2f636c6f7564.png "Page Speed")
